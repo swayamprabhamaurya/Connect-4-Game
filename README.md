@@ -5,7 +5,7 @@ This Java-based Connect Four game is developed using JavaFX, allowing players to
 ## Features
 
 - **Graphical User Interface**: Built with JavaFX, providing an intuitive and visually appealing gaming experience.
-- **STwo Player Modes**: Challenge a friend locally on the same machine.
+- **Two Player Modes**: Challenge a friend locally on the same machine.
 - **Responsive Design**: The GUI adapts to various screen sizes, ensuring consistent performance across devices.
 
 ## Getting Started
